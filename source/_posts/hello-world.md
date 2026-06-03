@@ -35,4 +35,4 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 $ hexo deploy
 ```
 
-More info: [FIELD](https://hexo.io/docs/one-command-deployment.html)
+More info: [FIELDsterling](https://hexo.io/docs/one-command-deployment.html)
